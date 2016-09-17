@@ -6,7 +6,7 @@
 
 """
 
-class {{cookiecutter.app_class_name}}:
+class {{cookiecutter.app_class_name}}(object):
     """Basic class"""
     def __init__(self):
         self.hello = "Hello, World"
