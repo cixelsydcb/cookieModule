@@ -8,7 +8,7 @@
 
 class {{cookiecutter.app_class_name}}:
     """Basic class"""
-    def __init__(self):
+    def __init__():
         self.hello = "Hello, World"
-    def run(self):
+    def run():
         print(self.hello)
