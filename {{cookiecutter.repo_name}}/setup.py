@@ -11,7 +11,7 @@ setup(
 
     package_data = {
         # If any package contains *.txt or *.rst files, include them:
-        '': ['*.txt', '*.rst'),
+        '': ['*.txt', '*.rst'],
         # And include any *.msg files found in the {{cookiecutter.repo_name}} package, too:
         '{{cookiecutter.repo_name}}': ['*.msg'],
     },
