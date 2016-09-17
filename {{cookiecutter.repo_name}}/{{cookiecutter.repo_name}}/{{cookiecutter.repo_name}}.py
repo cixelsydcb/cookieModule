@@ -5,7 +5,6 @@
 =============================
 
 """
-import
 
 class {{cookiecutter.app_class_name}}:
     """Basic class"""
