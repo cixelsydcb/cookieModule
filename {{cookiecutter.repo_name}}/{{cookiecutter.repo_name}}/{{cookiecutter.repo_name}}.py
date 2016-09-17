@@ -9,5 +9,7 @@ import
 
 class {{cookiecutter.app_class_name}}(App):
     """Basic class"""
-    def build(self):
-        return self
+    def __init__(self):
+        self.hello = "Hello, World"
+    def run(self):
+        print(self.hello)
