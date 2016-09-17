@@ -7,7 +7,7 @@
 """
 import
 
-class {{cookiecutter.app_class_name}}(App):
+class {{cookiecutter.app_class_name}}:
     """Basic class"""
     def __init__(self):
         self.hello = "Hello, World"
