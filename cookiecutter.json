@@ -3,6 +3,7 @@
 	"email": "charles.k.brown@gmail.com",
 	"repo_name": "cookiecuttermodule",
 	"app_class_name": "myClass",
+	"app_title": "My Title",
 	"short_description": "Simple module that does nothing",
 	"version": "0.1.0",
 	"year": "2016"
