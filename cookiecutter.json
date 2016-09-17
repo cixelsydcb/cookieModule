@@ -5,6 +5,8 @@
 	"app_class_name": "myClass",
 	"app_title": "My Title",
 	"short_description": "Simple module that does nothing",
+	"github_username": "cixelsydcb",
+	"license": "MIT",
 	"version": "0.1.0",
 	"year": "2016"
 
